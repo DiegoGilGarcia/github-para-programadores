@@ -1,2 +1,3 @@
-# github-para-programadores
-Prueba de repositorio
+# Github para desarrolladores curso
+Github para desarrolladores
+[visita mi blog](http://diegog.html)
